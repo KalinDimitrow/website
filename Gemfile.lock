@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/nicbet/shell_command.git
+  revision: 9b3bd57d818b575384dfc8b61228ba83bdffaae9
+  specs:
+    shell_command (0.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -222,6 +228,7 @@ DEPENDENCIES
   puma (~> 5.0)
   rails (~> 7.0.8)
   selenium-webdriver
+  shell_command!
   sprockets-rails
   stimulus-rails
   turbo-rails
